@@ -44,6 +44,8 @@ Compatibility with Ultimate ToolBox 2.0.
 
 IP display in xmb menu.
 
+Akari Compatibility.
+
 
 ### Credits
 
